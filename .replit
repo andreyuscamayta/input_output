@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc parte1.c -o parte1.o;./parte1.o"
