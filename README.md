@@ -20,7 +20,10 @@ Altere o arquivo `.replit` substituindo-o pelo seguinte código:
 language = "c"
 run = "gcc parte1.c -o parte1.o;./parte1.o"
 ``` 
-Clique no botão `run`, que agora irá compilar e executar o arquivo ** parte1.c **.
+Clique no botão `run`, que agora irá compilar e executar o arquivo **parte1.c**.
+
+### Tarefas de avaliação automática
+1. Será avaliado que o output mostre a url do seu projeto em SCRATCH
 
 ## Parte 2: Criar codigo a partir do scratch
 Foi fornecido um [projeto](https://scratch.mit.edu/projects/494279233) no sistema web [SCRATCH](https://scratch.mit.edu), que simula um *bot* de um hospital.
@@ -34,4 +37,8 @@ Altere o arquivo `.replit` substituindo-o pelo seguinte código:
 language = "c"
 run = "gcc parte2.c -o parte2.o;./parte2.o"
 ``` 
-Clique no botão `run`, que agora irá compilar e executar o arquivo ** parte2.c **.
+Clique no botão `run`, que agora irá compilar e executar o arquivo **parte2.c**.
+
+### Tarefas de avaliação automática
+1. Sera avaliado que o input espere por duas entradas
+2. Sera avaliado que o output mostre os imput formatado
