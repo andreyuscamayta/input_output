@@ -7,7 +7,7 @@ O código-fonte `parte1.c` está simulando um *bot* de uma loja de informática.
 
 O desafio será criar um programa utilizando o sistema web [SCRATCH](https://scratch.mit.edu) para programação visual que execute passo a passo o que `parte1.c` faz.
 
-Finalmente altere o arquivo `parte1.c` na linha` 12` adicionando o link para o seu projeto scratch como por exemplo:
+Finalmente altere o arquivo `parte1.c` na linha` 14` adicionando o link para o seu projeto scratch como por exemplo:
 
 > #SCRATCH#`XXXXXXX`
 
@@ -40,5 +40,5 @@ run = "gcc parte2.c -o parte2.o;./parte2.o"
 Clique no botão `run`, que agora irá compilar e executar o arquivo **parte2.c**.
 
 ### Tarefas de avaliação automática
-1. Sera avaliado que o input espere por duas entradas
-2. Sera avaliado que o output mostre os imput formatado
+1. Sera avaliado que o input espere por quatro entradas
+2. Sera avaliado que o output mostre os tres inputs.
